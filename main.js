@@ -71,13 +71,6 @@ const database = [
 
   ];
   
-
-
-
-
-  
-  
-  
     function toLowercase(str) {
       return str.toLowerCase();
     }
