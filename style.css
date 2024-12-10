@@ -1,0 +1,46 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  .um {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .dois {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+  }
+  
+  .três {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+  }
+  
+  .quatro {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .cinco {
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+  }
+  
+  input {
+    border-radius: 20px;
+    border-color: rgb(34, 114, 167);
+    padding: 5px;
+    width: 300px;
+  }
+  
+  .botao {
+    border-radius: 20px;
+    border-color: rgb(34, 114, 167);
+    width: 150px;
+  }
+  
